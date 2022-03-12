@@ -1,15 +1,26 @@
 {
   "name": "solved",
   "version": "1.0.0",
-  "description": "",
+  "description": "Work with a partner to resolve the following issue(s):",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
     "mysql2": "^2.2.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhahdin1997/prepared-statements-mysql.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/farhahdin1997/prepared-statements-mysql/issues"
+  },
+  "homepage": "https://github.com/farhahdin1997/prepared-statements-mysql#readme"
 }
